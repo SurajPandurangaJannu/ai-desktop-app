@@ -1,0 +1,32 @@
+I want you to go through this youtube video: https://www.youtube.com/watch?v=EJm8Ka-gVOc and summarize the video for me. 
+Use the required tools to use go through the video.
+
+
+Does the hermes server run's locally ? 
+Can we use it without internet ?
+
+You can document the important parts of it so that you can load it whenever you need it.
+Try to have a different file for each concept so that we can go through it and improve it later.
+
+Hermes is solving only one end-user problem where it learns day by day and works better and solves user needs.
+
+Hermes expects each user have its own hermes agent. Isolation is the key. 
+
+
+
+Perfect. I have an idea where i would like to build an application which solves these problems.
+I want to build a SAAS application which user can use directly like we use facebook, instagram etc. 
+I want to build an application which provides all the features of hermes and maintains the personalization aspects along with security, PII and GDPR etc.
+The application should be is one stop solution for all problems. consider user wants to book a movie ticket, pay electicity bill, order groceries online, reminders to note someone's birthday, get news updates, help him in learning language or some exam preparation etc user should be able to use the application. 
+the integration is the key, the application should be extendable and flexible to make integration with any application, for example whatsapp, facebook, twitter, gmail, amazon, flipkart etc. 
+the application should be used directly via whatsapp incase if its integrated via whatsapp. this helps to get the data shared between applications. definetly the data sharing and other security concerns should be handled.
+
+Have you understood the idea? If you have any questions get it clarified. Is the idea good?
+
+1. Its a global one. the examples given like flipkart, amazon is to understand the idea. 
+2. We will have our own app. primarlity conversational but we should also support dashboards.
+3. Hybrid.
+
+Also the application will have voice support.
+
+First identify if its the right user ? based on expression and voice. so that intruders can't get the data.
